@@ -211,14 +211,11 @@ __marimo__/
 **/.DS_Store
 
 # Data folders and files
-data/
 *.dat
 
 # Images
-images/
 *.pdf
 *.png
 
-# Papers
-used_bibliography/
+
 
